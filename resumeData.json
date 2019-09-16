@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name":"Pranav Kulkarni",
+    "occupation":"Masters Student of Software Engineering @ University of Maryland",
+    "description":" I have strong interest in the field of Software Developement, AI/ML, Finance, Robotics, crypto-currency and any combination of these. I am proficient in JS, Python, C++, R,  and have an experience working in React/Redux, PostgreSql, Python Pandas and Node & express JS. I am currently looking for full-time positions in any of the following: Software developer, full-stack developer, React/Redux Js developer, Front-end developer, Back-end developer, JS/Python developer.",
+    "image":"profilepic.jpg",
+    "bio":"I was born and raised in lovely city Pune, India. After my basic schooling there, I did my graduation from highly coveted Indian Institute of Technology Patna, India from department of Mechanical Engineering from 2012 - 2016.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pranav08@terpmail.umd.edu",
+    "phone": "301-851-1822",
+    "address":{
+      "street":"5043, Berwyn road",
+      "city":"College Park",
+      "state":"Maryland",
+      "zip": "20740"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/open?id=1mAYgUKtnsre2HLLuYc1nNJAy26xD8PgL",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pranav-kulkarni-6a699192/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/pranav2308",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Short visual summary of some of my skills",
+    "education":[
+      {
+        "school":"University of Maryland",
+        "degree":"Masters in Software Engineering",
+        "graduated":"May 2020 (Expected)",
+        "description":"Have undertaken courses in Software Architecture, requirements, Systems Engineering, AI Planning and Life-cycle cost estimation. Currently a graduate research assistant to Dr. Varaprasad Bandaru at Dept. of Geographical Sciences."
+      },
+      {
+        "school":"Indian Institute of Technology Patna",
+        "degree":"B.Tech in Mechanical Engineering",
+        "graduated":"August 2016",
+        "description":"Received Director's 'Best Graduate Thesis Project Award 2016', Published a paper in American Society in ME and was selected in coveted MITACS Globalinks scholarship."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"R",
+        "level":"80%"
+      },
+      {
+        "name":"Pandas",
+        "level":"60%"
+      },
+      {
+        "name":"PostgreSql",
+        "level":"90%"
+      },
+      {
+        "name":"React/Redux",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  }
+}
