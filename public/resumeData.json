@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Pranav Kulkarni",
-    "occupation":"Masters Student of Software Engineering @ University of Maryland",
-    "description":" I have strong interest in the field of Software Developement, AI/ML, Finance, Robotics, crypto-currency and any combination of these. I am proficient in JS, Python, C++, R,  and have an experience working in React/Redux, PostgreSql, Python Pandas and Node & express JS. I am currently looking for full-time positions in any of the following: Software developer, full-stack developer, React/Redux Js developer, Front-end developer, Back-end developer, JS/Python developer.",
+    "occupation":"Masters Student of Software Engineering @ University of Maryland (Fall 2018-2020)",
+    "description":"I have strong interest in the field of Software Developement, AI/ML, Finance, Robotics and any combination of these. I am proficient in Javascript, Python, C++, R, MySQL and have an experience working in React/Redux, Node & Express JS, High-performance/Super computing platforms, PostgreSql, Pandas, Postman, Git, SSH, ArcGIS, ROS & Linux. I am currently looking for full-time positions from May 2020 in any of the following: Software developer, full-stack developer, React/Redux developer, Javascript developer, Front-end developer, Back-end developer, Python developer, C++ developer",
     "image":"profilepic.jpg",
-    "bio":"I was born and raised in lovely city Pune, India. After my basic schooling there, I did my graduation from highly coveted Indian Institute of Technology Patna, India from department of Mechanical Engineering from 2012 - 2016.",
+    "bio":"I was born and raised in a lovely city called 'Pune' in India. After my basic schooling there, I did my graduation from the Indian Institute of Technology Patna, India from the department of Mechanical Engineering (2012 - 2016). Currently, I am doing my Masters in Software Engineering from the University of Maryland (Fall 2018 - 2020). Apart from my strong liking towards Software Development and coding in general, I like reading books especially from mythology, mystery, science fiction, business/entrepreneurship & political satire genres. I also like watching good movies and I am a big fan of Christopher Nolan and Denis Villeneuve. Apart from all of this, I do enjoy playing chess in the pass-time.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pranav08@terpmail.umd.edu",
     "phone": "301-851-1822",
@@ -15,7 +15,7 @@
       "zip": "20740"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/open?id=1FFMEUyzdLfyH15RvrFxA_7iJTZyWDfVp",
+    "resumedownload":"https://drive.google.com/file/d/1EFt1zt1LkvKJq3XzUpkr2Xjso_fYihcI/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -26,6 +26,11 @@
         "name":"github",
         "url":"http://github.com/pranav2308",
         "className":"fa fa-github"
+      },
+      {
+        "name":"HackerRank",
+        "url":"https://www.hackerrank.com/pranav08",
+        "className":"fas fa-file-code"
       }
     ]
   },
