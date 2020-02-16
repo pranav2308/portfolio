@@ -50,18 +50,63 @@
         "description":"Received Director's 'Best Graduate Thesis Project Award 2016', Published a paper in American Society in ME and was selected in coveted MITACS Globalinks scholarship."
       }
     ],
-    "skills":[
+    "work":[
       {
-        "name":"Git",
-        "level":"80%"
+        "company":"Dept. of Geographical Sciences, University of Maryland",
+        "title":"Graduate Student Researcher",
+        "years":"June 2019 - Present",
+        "description":"I have developed 7+ packages & supporting modules for performing data extraction, pre-processing, bias-correction and down-scaling of CFS and SubX Multi Model Ensemble (MME) satellite-based weather datasets (200+GB in size). Apart from this, I have also automated and increased the efficiency of GIS based data analysis system used for conducting large scale simulations at high-spatial resolutions by using EPIC crop model by reducing its simulation time by ~ 60%. Finally, I have also performed EPIC crop model simulations for 3 different crops (from 2012-2015), its subsequent post-processing and validation at national-scale (with ~ 1KM spatial resolution) and I am currently in-process of publishing the results.",
+        "environment":"R, Python, high-performance clusters, Bridges & Comet super computing platforms, SSH, Linux."
       },
+      {
+        "company":"Web application - freelance projects",
+        "title":"Web application developer",
+        "years":"August 2019 - Present",
+        "description":"I have developed full-stack interactive web-applications for 1. Visualization based asset allocation computing tool for investors as Beta-manager (https://beta-manager.herokuapp.com/) & 2. Tool for detecting celebrities and human faces in uploaded image as CeleFace (https://celeface.herokuapp.com/). I have also developed 3+ wireframes & 7+ UML diagrams for UX design, internal application flow and state management and worked as an implementation lead for developing prototype of online cooking learning management system named MasterCook (https://mastercook613.herokuapp.com/) for semester-wide course project in a group of 6.",
+        "environment":"React/Redux, Express & Node JS, HTML5, CSS3, PostgreSql, Firebase, Postman, Heroku, Git."
+      },
+      {
+        "company":"Quantitative team @ Smith investment Fund (SIF) - UMD",
+        "title":"Technical Lead",
+        "years":"November 2018 - Present",
+        "description":"I developed REST API for ‘Beta’ parameter computation, Hierarchical Risk Parity (HRP) computation & for asset-screener for ‘Quality Companies at Reasonable Price (QARP)’ software model. (More info on SIF can be found at https://www.umdsmithinvestmentfund.com/). I have also conducted 2+ Q&A sessions & lecture series on ‘Intro to Basic SoftDev tools’ for new recruits in the club. ",
+        "environment":"Python, Pandas, Selenium, Google datalab, Quandl, Git."
+      },
+      {
+        "company":"Dept. of Aerospace Engineering - UMD",
+        "title":"Research Assistant",
+        "years":"Aug 2018 - May 2019",
+        "description":"I assisted to Dr. Huan Xu, for developing RESTful API for generating an optimized multi-robot control policy based on automata learning of environmental dynamics to satisfy given LTL specifications with maximum probability. For developing the same, I studied 15+ related research papers and conducted path planning simulations by leveraging public packages.",
+        "environment":"Python, SimPy, Linux, ROS."
+      },
+      {
+        "company":"Mechatronics Lab - IIT Patna",
+        "title":"Research Assistant",
+        "years":"Aug 2015 - Apr 2016",
+        "description":"I developed an optimized feedback algorithm for automated trajectory planning of ferromagnetic microbots used for targeted cell deliveries via cell-micromanipulation in presence of undesired forces and sensing noise. For this project, I received Institute’s ‘Best Graduate Thesis Project Award 2016’ for the developed algorithm and prepared thesis. I was also able to publishe and present the research findings in ASME 10th International Conference on Micro-Nano systems. By leveraging the developed algorithm, I developed the framework for accurate and fast tracking of pre-defined trajectories by microbots and led the team of 4 for the ‘Mobile Micro-robotics Challenge 2016’ (organised by IEEE RAS) to achieve the rank of top 3 finalists.",
+        "environment":"Python, C++, pygame, SimPy, MATLAB, Linux."
+      },
+      {
+        "company":"Craft Systems, India",
+        "title":"Project Manager",
+        "years":"May 2017 - Apr 2018",
+        "description":"I was lead CNC mill programmer for 3, 4 & 5-axis bar fed mill for development of prototypes & production parts. Apart from this, I also performed regular troubleshootings and enforced Lean 5S throughout the shop for maximizing operator time & safety."
+      },
+      {
+        "company":"Hindustan Petroleum Corporation Limited",
+        "title":"Officer – Retail Upgradation",
+        "years":"Jul 2016 - Apr 2017",
+        "description":"I worked as an interface between customer and developers for implementation of retail automation software at 103+ outlets. For the same purpose, I used to extract requirements from customers for troubleshooting, product support & improvement in developed software. I also worked closely with development team for requirements prioritization and quicker and improved resolution of first ticket issues."
+      }
+    ],
+    "skills":[
       {
         "name":"Python",
         "level":"90%"
       },
       {
         "name":"Javascript",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"C++",
@@ -69,7 +114,32 @@
       },
       {
         "name":"R",
+        "level":"85%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Assembly (x86 Intel syntax)",
+        "level":"60%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
         "level":"80%"
+      },
+      
+      {
+        "name":"React/Redux",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"75%"
       },
       {
         "name":"Pandas",
@@ -78,22 +148,48 @@
       {
         "name":"PostgreSql",
         "level":"90%"
-      },
-      {
-        "name":"React/Redux",
-        "level":"75%"
-      },
-      {
-        "name":"CSS",
-        "level":"60%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
+      },      
       {
         "name":"MongoDB",
         "level":"60%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
       }
     ]
   }
