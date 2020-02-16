@@ -162,34 +162,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Beta-manager",
+        "category":"Visualization based allocation computing tool for investors",
+        "image":"beta_manager.png",
+        "url":"https://beta-manager.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"CeleFace",
+        "category":"Celebrity and Face detection app",
+        "image":"celeface.png",
+        "url":"http://celeface.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"MasterCook",
+        "category":"prototype of online cooking learning management system",
+        "image":"mastercook.png",
+        "url":"https://mastercook613.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Portfolio Website",
+        "category":"A React based portfolio website",
+        "image":"portfolio.png",
+        "url":"https://pranav2308.github.io/portfoliopranav/"
       }
     ]
   }
