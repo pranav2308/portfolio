@@ -166,13 +166,13 @@
       {
         "title":"Beta-manager",
         "category":"Visualization based allocation computing tool for investors",
-        "image":"beta_manager.png",
+        "image":"beta_manager.PNG",
         "url":"https://beta-manager.herokuapp.com/"
       },
       {
         "title":"CeleFace",
         "category":"Celebrity and Face detection app",
-        "image":"celeface.png",
+        "image":"celeface.PNG",
         "url":"http://celeface.herokuapp.com/"
       },
       {

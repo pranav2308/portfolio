@@ -45,7 +45,6 @@ class App extends Component {
 
   render() {
 
-    console.log('Data: ', data);
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
