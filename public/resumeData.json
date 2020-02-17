@@ -41,13 +41,15 @@
         "school":"University of Maryland",
         "degree":"Masters in Software Engineering",
         "graduated":"May 2020 (Expected)",
-        "description":"Have undertaken courses in Software Architecture, requirements, Systems Engineering, AI Planning and Life-cycle cost estimation. Currently a graduate research assistant to Dr. Varaprasad Bandaru at Dept. of Geographical Sciences."
+        "description":"Have undertaken courses in Software Architecture, Detailed design, Reverse Software Engineering, Software requirements, Software Testing, Project Management in Software Engineering, Systems Engineering, AI Planning and Life-cycle cost estimation. Currently a graduate research assistant to Dr. Varaprasad Bandaru at Dept. of Geographical Sciences.",
+        "note" : "Transferred from Master of Science in Systems Engineering, University of Maryland."
       },
       {
         "school":"Indian Institute of Technology Patna",
         "degree":"B.Tech in Mechanical Engineering",
         "graduated":"August 2016",
-        "description":"Received Director's 'Best Graduate Thesis Project Award 2016', Published a paper in American Society in ME and was selected in coveted MITACS Globalinks scholarship."
+        "description":"Received Director's 'Best Graduate Thesis Project Award 2016', Published a paper in American Society of Mechanical Engineers and was selected for MITACS Globalinks scholarship. Also, was Technical Co-ordinator for Institute’s Techno-Cultural festival. Took courses in Fluid Mechanics, Advanced Roboitcs, Numerical Methods, Finite Element analysis, Solid Mechanics.",
+        "note" : "Selected through IIT-JEE with all India rank of 4787 among half a million aspirants (Top 1% in India)."
       }
     ],
     "work":[
