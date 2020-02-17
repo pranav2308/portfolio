@@ -7,15 +7,15 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
-import 'tachyons';
 
+import 'tachyons';
+const data = require('./ResumeData/resumeData.json');
 
 class App extends Component {
 
   constructor(props){
     super(props);
     this.state = {
-      foo: 'bar',
       resumeData: {}
     };
 
@@ -40,10 +40,12 @@ class App extends Component {
   }
 
   componentDidMount(){
-    this.getResumeData();
+    this.setState({resumeData: data});
   }
 
   render() {
+
+    console.log('Data: ', data);
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
